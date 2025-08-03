@@ -1,2 +1,2 @@
-# GMTK
-GMTK Gamejam 2025
+# GMTK-Jam-2025
+Unity Project for GMTK 2025
